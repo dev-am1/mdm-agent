@@ -1,0 +1,15 @@
+<resources>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textView_description">برای شروع آزمون از کلیدهای زیر استفاده نمایید.</string>
+    <string name="textView_Download_speed">سرعت دریافت</string>
+    <string name="textView_download_hint">سرعت دریافت </string>
+    <string name="textView_upload_speed_hint">سرعت ارسال </string>
+    <string name="textView_upload_speed">سرعت ارسال</string>
+    <string name="start_button_title">شروع</string>
+    <string name="textView_InstantSpeed">سرعت لحظه ای </string>
+    <string name="info">info</string>
+    <string name="device">device</string>
+    <string name="wifi">wifi</string>
+</resources>

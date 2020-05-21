@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/technology1"
+        android:title="@string/info" />
+    <item
+        android:id="@+id/nav_device"
+        android:icon="@drawable/technology2"
+        android:title="@string/device" />
+    <item
+        android:id="@+id/nav_wifi"
+        android:icon="@drawable/technology"
+        android:title="@string/wifi" />
+
+</menu>
